@@ -1,0 +1,17 @@
+
+[subtitles]
+
+	[subtitles.general]
+		show_subtitles = true
+		show_unknown_subtitles = true
+
+	[subtitles.subtitle_color]
+		subtitle_alpha = 200
+
+	[subtitles.subtitle_pos]
+		subtitle_x = 5
+		subtitle_y = 5
+
+	[subtitles.subtitle_scale]
+		subtitle_scale = 100
+

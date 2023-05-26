@@ -1,0 +1,9 @@
+#Thu May 25 16:47:28 EEST 2023
+Colorboost=true
+Crossprocess=true
+Fog=false
+gamma=3.0
+MB_strength=0.020
+MobsFlashRed=false
+Motionblur=true
+Shadows=false
